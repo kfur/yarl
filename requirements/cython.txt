@@ -1,1 +1,1 @@
-cython==0.29.34
+git+https://github.com/cython/cython@master
